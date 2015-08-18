@@ -1,0 +1,7 @@
+# Site settings
+title: Responsive
+baseurl: /responsive
+exclude: ['README.md']
+# Build settings
+markdown: rdiscount
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
