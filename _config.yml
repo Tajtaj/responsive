@@ -6,7 +6,7 @@ paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
 markdown: redcarpet
-highlighter: pygments
+#highlighter: pygments
 paginate: 3
 
 navigation:
