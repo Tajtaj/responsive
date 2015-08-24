@@ -1,3 +1,6 @@
+.footer .container{
+	text-align:center;
+}
 .footer .container .copy{
-	border:1px solid red;
+	float:none
 }
